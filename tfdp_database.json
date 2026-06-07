@@ -1,0 +1,32 @@
+[
+    {
+        "country": "Brazil",
+        "electoral_integrity": 88.0,
+        "civil_liberties": 77.0,
+        "transparency": 66.0,
+        "education": 55.0,
+        "economy": 44.0,
+        "score": 71.5,
+        "classification": "Stable Democracy"
+    },
+    {
+        "country": "Canada",
+        "electoral_integrity": 66.0,
+        "civil_liberties": 55.0,
+        "transparency": 44.0,
+        "education": 88.0,
+        "economy": 99.0,
+        "score": 65.45,
+        "classification": "Stable Democracy"
+    },
+    {
+        "country": "Norway",
+        "electoral_integrity": 44.0,
+        "civil_liberties": 66.0,
+        "transparency": 33.0,
+        "education": 22.0,
+        "economy": 44.0,
+        "score": 44.0,
+        "classification": "Democracy at Risk"
+    }
+]

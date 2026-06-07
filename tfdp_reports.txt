@@ -1,0 +1,75 @@
+Country: Democratic Island
+Electoral Integrity: 99.0
+Civil Liberties: 88.0
+Government Transparency: 77.0
+Education Index: 66.0
+Economic Stability: 55.0
+TFDP Score: 82.5
+Classification: Strong Democracy
+----------------------------------------
+Country: Brazil
+Electoral Integrity: 55.0
+Civil Liberties: 44.0
+Government Transparency: 33.0
+Education Index: 22.0
+Economic Stability: 11.0
+TFDP Score: 38.5
+Classification: Fragile Democracy
+----------------------------------------
+Country: Brazil
+Electoral Integrity: 88.0
+Civil Liberties: 77.0
+Government Transparency: 66.0
+Education Index: 55.0
+Economic Stability: 44.0
+TFDP Score: 71.5
+Classification: Stable Democracy
+----------------------------------------
+Country: Democratic Artic
+Electoral Integrity: 56.0
+Civil Liberties: 78.0
+Government Transparency: 45.0
+Education Index: 73.0
+Economic Stability: 49.0
+TFDP Score: 61.15
+Classification: Stable Democracy
+----------------------------------------
+Country: Democratic Artic
+Electoral Integrity: 22.0
+Civil Liberties: 44.0
+Government Transparency: 55.0
+Education Index: 77.0
+Economic Stability: 88.0
+TFDP Score: 48.95
+Classification: Democracy at Risk
+----------------------------------------
+Country: Congoles
+Electoral Integrity: 44.0
+Civil Liberties: 44.0
+Government Transparency: 44.0
+Education Index: 44.0
+Economic Stability: 44.0
+TFDP Score: 44.0
+Classification: Democracy at Risk
+----------------------------------------
+Country: Brazil
+Electoral Integrity: 77.0
+Civil Liberties: 88.0
+Government Transparency: 99.0
+Education Index: 11.0
+Economic Stability: 55.0
+TFDP Score: 72.05
+Classification: Stable Democracy
+----------------------------------------
+Country: Brazil
+Score: 71.5
+Classification: Stable Democracy
+----------------------------------------
+Country: Canada
+Score: 65.45
+Classification: Stable Democracy
+----------------------------------------
+Country: Norway
+Score: 44.0
+Classification: Democracy at Risk
+----------------------------------------
